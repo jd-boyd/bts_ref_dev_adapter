@@ -13,5 +13,7 @@ USB-C connector for use with USB 2.0 only, to 1x5 like is used on motherboard US
 
 Breadboard adapter for stemma qt.
 
+## rfm69_breakout
 
+Breadboardable breakout carrier for a RFM69 module.
 
