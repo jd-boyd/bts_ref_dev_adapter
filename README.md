@@ -17,3 +17,7 @@ Breadboard adapter for stemma qt.
 
 Breadboardable breakout carrier for a RFM69 module.
 
+## 08-soic / 20-soic
+
+Breadboard breadouts for two common soic sizes.
+
