@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EasyEDA_Footprints")(type "KiCad")(uri "/home/jdboyd/work/bts_ref_dev_adapter/EasyEDA_Footprints.pretty")(options "")(descr ""))
+)
